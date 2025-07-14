@@ -1,0 +1,7 @@
+{
+  "name": "Zenith Alarm Sleep Hub",
+  "description": "A beautifully designed, mobile-first alarm clock and intelligent sleep tracker. It uses AI to analyze your sleep audio, providing insights and suggestions for a better night's rest.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
